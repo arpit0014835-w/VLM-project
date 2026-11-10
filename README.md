@@ -250,14 +250,8 @@ For long runs on Kaggle, use **Save Version → Save & Run All (Commit)** so tha
 ## 16. References
 
 1. Luo, Z., Gustafsson, F. K., Zhao, Z., Sjölund, J., Schön, T. B. *Controlling Vision-Language Models for Multi-Task Image Restoration.* ICLR 2024. arXiv:2310.01018.
-2. Jiang, Y., Zhang, Z., Xue, T., Gu, J. *AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion.* ECCV 2024. arXiv:2310.10123.
-3. Radford, A., et al. *Learning Transferable Visual Models From Natural Language Supervision (CLIP).* ICML 2021.
-4. Potlapalli, V., Zamir, S. W., Khan, S., Khan, F. S. *PromptIR: Prompting for All-in-One Blind Image Restoration.* NeurIPS 2023. arXiv:2306.13090.
-5. Conde, M. V., Geigle, G., Timofte, R. *InstructIR: High-Quality Image Restoration Following Human Instructions.* ECCV 2024. arXiv:2401.16468.
-6. Luo, Z., et al. *Image Restoration with Mean-Reverting Stochastic Differential Equations (IR-SDE).* ICML 2023.
-7. Chen, L., Chu, X., Zhang, X., Sun, J. *Simple Baselines for Image Restoration (NAFNet).* ECCV 2022.
-8. Agustsson, E., Timofte, R. *NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study (DIV2K).* CVPR Workshops 2017.
-9. Zhang, R., Isola, P., Efros, A. A., Shechtman, E., Wang, O. *The Unreasonable Effectiveness of Deep Features as a Perceptual Metric (LPIPS).* CVPR 2018.
+2. Potlapalli, V., Zamir, S. W., Khan, S., Khan, F. S. *PromptIR: Prompting for All-in-One Blind Image Restoration.* NeurIPS 2023. arXiv:2306.13090.
+3. Conde, M. V., Geigle, G., Timofte, R. *InstructIR: High-Quality Image Restoration Following Human Instructions.* ECCV 2024. arXiv:2401.16468.
 
 ## 17. Acknowledgements
 
