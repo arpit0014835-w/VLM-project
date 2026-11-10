@@ -1,7 +1,7 @@
 
 # VLM-Based Image Restoration
 
-### Instruction-Guided, Degradation-Aware Image Restoration with DA-CLIP
+### Instruction-Guided, Degradation-Aware Image Restoration with DA-CLIP 
 
 A project on restoring degraded images using Vision-Language Models (VLMs). The pipeline first **identifies which degradations are present**, restores the image with **DA-CLIP** for each detected type, and then **combines** the results into a single clean output. **AutoDIR** is studied as a related all-in-one restoration framework.
 
